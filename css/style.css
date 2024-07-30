@@ -1,0 +1,218 @@
+.google-maps {
+	position: relative;
+	padding-bottom: 30%;
+	height: 0;
+	overflow: hidden;
+}
+
+.google-maps iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.navbar {
+	font-size: 11pt;
+
+}
+
+.big {
+    line-height: 130%;
+}
+
+.menuoptionsgreen {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 17pt;
+	color: rgb(172,191,75);
+}
+
+.headings {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 15.5pt;
+	color: rgb(70,70,70);
+	
+}
+
+.headings2 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16pt;
+	color: rgb(100,100,100);
+	text-align: center;
+	
+}
+
+.headings4 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 13pt;
+	color: rgb(100,100,100);
+	text-align: center;
+	
+}
+
+
+.headings3 {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 13.5pt;
+	color: rgb(70,70,70);
+	
+	
+}
+
+.headingsfooter {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 14pt;
+	color: rgb(230,230,230);
+	text-align: center;
+}
+
+
+.headingsfooter2 {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 14pt;
+	color: rgb(5,58,76);
+	text-align: center;
+}
+
+.bodytext {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 10pt;
+	color: rgb(70,70,70);
+	font-weight: lighter;
+	
+}
+
+.phone {
+	font-size: 12pt;
+	font-family : Helvetica, Arial, sans-serif;
+	
+	
+}
+
+
+
+.footertext {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 10pt;
+	color: rgb(230,230,230);
+	text-align: center;
+
+}
+
+.footertext2 {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 10pt;
+	color: rgb(5,58,76);
+	text-align: center;
+	
+}
+
+.bodytext2 {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 12pt;
+	color: rgb(70,70,70);
+	text-align: center;
+	font-weight: lighter;
+	
+}
+
+.bodytext5 {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 12pt;
+	color: rgb(0,0,0);
+	text-align: center;
+	
+	
+}
+
+.bodytext3 {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 10pt;
+	color: rgb(100,100,100);
+	text-align: center;
+	
+}
+
+.bodytext3pt5 {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 10.5pt;
+	color: rgb(100,100,100);
+	text-align: center;
+	font-weight: lighter;
+	
+}
+
+.bodytext4 {
+	font-family : Helvetica, Arial, sans-serif;
+	font-size: 11pt;
+	color: rgb(70,70,70);
+	
+}
+
+.iconpadding {
+	text-align: middle;
+}
+
+.socialicons {
+	padding-top: 0px;
+}
+
+#footer {
+	background-color: rgb(108,150,150);
+}
+
+#footer3 {
+	background-color: rgb(90,117,132);
+	text-align: center;
+	vertical-align: center;
+	
+}
+
+#footer4 {
+	background-color: rgb(155,155,155);
+	text-align: center;
+	
+}
+
+
+#footer2 {
+	background-color: rgb(181,214,232);
+}
+
+#twitterFooter {
+	background-color: rgb(60,60,60);
+}
+
+#withmenu {
+	padding-top: 120px;
+}
+
+.thumbnailrow {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.carousel-title {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+
+.strategichover {
+   background-image: url('strategic.png');
+   
+}
+
+.strategichover:hover {
+   background-image: url('strategichover.png');
+}
+
+/* navbar */
+.navbar-default {
+    background-color: rgb(255,255,255);
+    border-color: rgb(255,255,255);
+}

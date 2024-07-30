@@ -1,0 +1,27 @@
+[
+  {
+    "name": "About Me",
+    "page": "about.html"
+  },
+  {
+    "name": "Yoga",
+    "page": "yoga.html"
+  },
+  {
+    "name": "Massage",
+    "page": "massage.html"
+  },
+  {
+    "name": "Mental Relaxation",
+    "page": "relax.html"
+  },
+  {
+    "name": "Timetable & Resources",
+    "page": "timetable.html"
+  },
+   {
+    "name": "Contact",
+    "page": "contact.html"
+  }
+  
+]
