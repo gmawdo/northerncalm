@@ -1,2 +1,2 @@
 # northerncalm
-laura's site hosted
+NorthernCalm Website
