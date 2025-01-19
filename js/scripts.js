@@ -3,7 +3,7 @@ function footer() {
 	var footerdiv = $('#sitefooter');
 	footerdiv.html("");
 
-	var appendstring = '<div class="container-fluid"><div class="row clearfix" id="footer"><div class="col-md-4 column"><br/><br/><h2 class="headingsfooter">Find Me!</h2><p class="footertext"><br/><b>Tel:</b> 01524 272 873</p><p class="footertext"><b>Mob:</b> 07989 485 482<br/></p><p class="footertext">Northern Calm<br/>Paries House<br/>Casterton<br/>Carnforth, LA6 2RZ<br/><br/>&copy; Copyright 2015 Northern Calm<br/><br/><br/></p></div><div class="col-md-4 column"><br/><br/><br/><br/> <br/><br/></p></div><div class="col-md-4 column"><h2 class="headingsfooter"><br/><br/>Get In Touch</h2><p class="footertext"><br/>Please don\'t hesitate to contact me with any enquiries!<br/></p><p class="footertext"><b>General Enquiries:</b> laura@northerncalm.co.uk<br/><br/><b>Web: </b>www.northerncalm.co.uk<br/><br/><br/><br/></div></div></div>';
+	var appendstring = '<div class="container-fluid"><div class="row clearfix" id="footer"><div class="col-md-4 column"><br/><br/><h2 class="headingsfooter">Find Me!</h2><p class="footertext"><b>Mob:</b> 07989 485 482<br/></p><p class="footertext">Northern Calm<br/>Paries House<br/>Casterton<br/>Carnforth, LA6 2RZ<br/><br/>&copy; Copyright 2025 Northern Calm<br/><br/><br/></p></div><div class="col-md-4 column"><br/><br/><br/><br/> <br/><br/></p></div><div class="col-md-4 column"><h2 class="headingsfooter"><br/><br/>Get In Touch</h2><p class="footertext"><br/>Please don\'t hesitate to contact me with any enquiries!<br/></p><p class="footertext"><b>General Enquiries:</b> laura@northerncalm.co.uk<br/><br/><b>Web: </b>www.northerncalm.co.uk<br/><br/><br/><br/></div></div></div>';
 
 	footerdiv.append(appendstring);
 }
@@ -75,7 +75,7 @@ function sociallinks() {
 		var bar = $('#sociallinks');
 		bar.html("");
 		var appendstring = '<div class="row thumbnail-row"> '+
-		'<div class="pull-left" style="padding-left: 70px"><h3 class="phone" style="padding-top: 9px"><b>t:</b> 01524 272 621</h3></div>'+
+		'<div class="pull-left" style="padding-left: 70px"><h3 class="phone" style="padding-top: 9px"><b>t:</b> 07989 482 485</h3></div>'+
 		'<div class="pull-right socialicons" style="padding-right: 70px"><br/> '+
 		'<a href="https://www.facebook.com/Hut8Media"target="_blank"><img src="img/facebook.png"></a> '+
 		'<a href="https://twitter.com/Hut8Media"target="_blank"><img src="img/twitter.png"></a> '+
